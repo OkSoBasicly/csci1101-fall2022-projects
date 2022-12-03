@@ -1,0 +1,17 @@
+p
+{
+    color: rgb(24, 76, 23);
+}
+
+.header-background
+{
+    background-color: rgb(81, 43, 42);
+    color: rgb(100, 74, 92);
+    text-decoration: dotted;
+}
+
+#bigger-font
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
